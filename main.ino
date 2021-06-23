@@ -2,9 +2,9 @@
  *  TERMOMETRO CON LCD PARA SEGUIMIENTO  *
  *  DE REACCIONES CON TAG DE TIEMPO Y    *
  *  ENVIO DE DATOS POR SERIAL            *
- *  VERSION: 0.1alpha                    *
+ *  VERSION: 0.3beta                     *
  *  POR: Miguel Orozco                   *
- *  git: <<por definir>>                 *
+ *  git: https://github.com/Necrovalle/termometro_campana.git
  *****************************************/
 
 //****************************** LIBRERIAS
